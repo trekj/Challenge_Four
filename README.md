@@ -26,6 +26,8 @@ from pathlib import Path
 
 import numpy as np
 
+%matplotlib inline
+
 
 # Usage
 
@@ -33,6 +35,7 @@ After cloning the repository, run the program by typing python risk_return_analy
 
 # Contributors
 James Tagapan
+
 jtagapan@gmail.com
 
 # License
