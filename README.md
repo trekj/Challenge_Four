@@ -32,8 +32,7 @@ import numpy as np
 After cloning the repository, run the program by typing python risk_return_analysis.ipynb 
 
 # Contributors
-# James Tagapan
-
+James Tagapan
 jtagapan@gmail.com
 
 # License
